@@ -3,12 +3,12 @@
 NOTE: You must obtain the original datasets licensing in order to use these annotations.
 
 ## MuSE
-Request access to the original [MuSE dataset](https://ieeexplore.ieee.org/abstract/document/8682793/?casa_token=ZmgmPj71ylQAAAAA:PNN7pf9wpYrGOKfqpfdDaX-kUjGlEKaZmSkR4j7q8vsXbHNzlgyP9gfsQPQicPdYc0_OG3YqG_g) here: [link]
+Request access to the original [MuSE dataset](https://ieeexplore.ieee.org/abstract/document/8682793/?casa_token=ZmgmPj71ylQAAAAA:PNN7pf9wpYrGOKfqpfdDaX-kUjGlEKaZmSkR4j7q8vsXbHNzlgyP9gfsQPQicPdYc0_OG3YqG_g) here: email emilykmp@umich.edu
 
 Then, enter the `SEER` directory to access the CSVs `Task1_Data_MuSE.csv` and `Task2_Data_MuSE.csv`.
 
 ## MSP-Podcast
-Request access to the original [MSP-Podcast](https://arxiv.org/pdf/2509.09791v1) dataset version 1.11 here: [https://www.lab-msp.com/MSP/MSP-Podcast.html]
+Request access to the original [MSP-Podcast](https://arxiv.org/pdf/2509.09791v1) dataset version 1.11 here: https://www.lab-msp.com/MSP/MSP-Podcast.html
 
 
 ## Task 1 Data
