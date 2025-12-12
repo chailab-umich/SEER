@@ -7,7 +7,7 @@ Directory structure:
 - `data`
     - `MuSE`: contains MuSE data access instructions
     - `MSP-Podcast1.11`: contains MSP-Podcast data and scripts for data processing
-    README.md: contains dataset access instructions and description of data formatting
+    - `README.md`: contains dataset access instructions and description of data formatting
 - `prompts.py`: contains the prompts used in the main SEER benchmark tasks
 
 If you use this paper or repository in your research, please make sure to cite this work:
