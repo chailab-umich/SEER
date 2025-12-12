@@ -19,7 +19,7 @@ Then, enter the `SEER` directory to access the CSVs `Task1_Data_MuSE_Release.csv
     - example: "This is a \*\*very happy\*\* sentence"
 - Annot{i}: crowdsourced emotion evidence annotations with inline labels via \*\* markers for annotator `i`
 
-## Task 2 Data
+### Task 2 Data
 - First_FileName: the first of the five consecutive wav-file name from the original dataset. If a file contained multiple sentences, it is split into `n` parts and relabeled with an additional `_sent{i}.wav`. 
     - example: `26_DR-100_0091_1_sentence_3_sent2.wav`
 - Consecutive_FileNames: a string representation of an array containing 5 consecutive wav-file names from the original dataset.
@@ -48,7 +48,7 @@ We provide scripts `MSP-Podcast1.11/map_task1_data_to_transcript.py` and `MSP-Po
 - Gold_Spans: expert emotion evidence annotations provided as a string-representation of an array of indices corresponding to the space-split words of the original dataset's manual transcriptions (see paragraph above)
 - Annot{i}: crowdsourced emotion evidence annotations via indicies (see Gold_Spans description) for annotator `i`
 
-## Task 2 Data
+### Task 2 Data
 - First_FileName: the first of the five consecutive wav-file name from the original dataset. 
     - example: `MSP-PODCAST_0202_0030.wav`
 - Consecutive_FileNames: a string representation of an array containing up to 5 consecutive wav-file names from the original dataset. There may be less than 5 if one file contained > 1 sentence.
