@@ -1,0 +1,1 @@
+see SEER/data/README.md on how to access MuSE annotations.
